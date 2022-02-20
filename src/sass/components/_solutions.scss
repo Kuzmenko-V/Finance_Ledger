@@ -1,0 +1,104 @@
+.solutions-content-text {
+  padding: 30px;
+  background-color: $accent-color;
+  @media screen and (min-width: 768px) {
+    width: 324px;
+  }
+  @media screen and (min-width: 1360px) {
+    width: 620px;
+    padding: 84px 30px 84px 30px;
+  }
+  h3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+
+    color: $main-color;
+    @media screen and (min-width: 768px) {
+      font-size: 20px;
+      line-height: 33px;
+    }
+  }
+  h2 {
+    margin-top: 5px;
+    width: 204px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 38px;
+    line-height: 48px;
+    color: $main-color;
+    @media screen and (min-width: 1360px) {
+      width: 540px;
+    }
+  }
+  p {
+    margin-top: 25px;
+    margin-bottom: 14px;
+    width: 260px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: $main-color;
+    @media screen and (min-width: 768px) {
+      font-size: 18px;
+      line-height: 28px;
+      margin-bottom: 20px;
+      width: 315px;
+    }
+    @media screen and (min-width: 1360px) {
+      font-size: 18px;
+      line-height: 28px;
+      margin-bottom: 17px;
+      width: 600px;
+    }
+  }
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 158px;
+    height: 47px;
+
+    background-color: $accent-color;
+    border: 1px solid $main-color;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+    span {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 26px;
+
+      color: $main-color;
+    }
+    @media screen and (min-width: 768px) {
+      width: 167px;
+      height: 50px;
+      span {
+        font-size: 18px;
+        line-height: 28px;
+      }
+    }
+  }
+}
+.solutions-content {
+  @media screen and (min-width: 768px) {
+    display: flex;
+  }
+}
+.solutions-content-img {
+  @media screen and (min-width: 768px) {
+    width: 384px;
+    img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  @media screen and (min-width: 1360px) {
+    width: 680px;
+  }
+}

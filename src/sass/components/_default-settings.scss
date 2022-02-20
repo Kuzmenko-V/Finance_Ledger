@@ -1,0 +1,41 @@
+button {
+  font-family: inherit;
+  font-style: inherit;
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  &:visited {
+    color: $main-color;
+  }
+}
+
+address {
+  font-style: normal;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+body {
+  font-family: $font-site;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}

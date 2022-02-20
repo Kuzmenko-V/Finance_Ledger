@@ -1,0 +1,90 @@
+.agency {
+  padding-top: 30px;
+  padding-bottom: 31px;
+  @media screen and (min-width: 768px) {
+    padding-top: 40px;
+  }
+  @media screen and (min-width: 1360px) {
+    padding-bottom: 20px;
+  }
+}
+.agency-list {
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 220px;
+  }
+  li:not(:first-child) {
+    margin-top: 18px;
+  }
+  @media screen and (min-width: 768px) {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    li {
+      width: 190px;
+    }
+    li:not(:first-child) {
+      margin-top: 0px;
+    }
+  }
+  @media screen and (min-width: 1360px) {
+    li {
+      width: 360px;
+    }
+  }
+}
+.agency-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: $accent-color;
+
+  svg {
+    width: 34px;
+    height: 34px;
+    fill: $main-color;
+    @media screen and (min-width: 768px) {
+      width: 35px;
+      height: 35px;
+    }
+  }
+  @media screen and (min-width: 768px) {
+    width: 67px;
+    height: 67px;
+  }
+}
+.agency-title {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+
+  color: $text-color;
+  @media screen and (min-width: 768px) {
+    margin-top: 15px;
+    font-size: 20px;
+    line-height: 33px;
+  }
+}
+.agency-text {
+  text-align: center;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: $text-color;
+  @media screen and (min-width: 768px) {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
