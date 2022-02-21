@@ -80,6 +80,16 @@
         line-height: 28px;
       }
     }
+    &:hover,
+    &:focus {
+      background: $text-accent-color;
+      svg {
+        fill: $accent-color-two;
+      }
+      span {
+        color: $accent-color-two;
+      }
+    }
   }
 }
 .blog-content {
