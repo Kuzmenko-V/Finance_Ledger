@@ -9,7 +9,9 @@
   "homepage": "https://Kuzmenko-V.github.io/Finance_Ledger",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Finance_Ledger/"
+    "build": "parcel build  src/*.html",
+    "predeploy": "npm run build -- --public-url /Finance_Ledger",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
