@@ -2,7 +2,10 @@
   "name": "finance-ledger",
   "version": "1",
   "description": "",
-  "main": "index.js",
+ "main": "index.js",
+ "targets": {
+   "main": false
+ },
   "homepage": "https://Kuzmenko-V.github.io/Finance_Ledger",
   "scripts": {
     "dev": "parcel src/*.html",
