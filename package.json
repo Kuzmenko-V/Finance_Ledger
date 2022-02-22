@@ -3,14 +3,14 @@
   "version": "1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/Kuzmenko-V/Finance_Ledger",
+  "homepage": "https://Kuzmenko-V.github.io/Finance_Ledger",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Finance_Ledger/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kuzmenko-V/Finance_Ledger/.git"
+    "url": "git+https://github.com/Kuzmenko-V/Finance_Ledger.git"
   },
   "keywords": [],
   "author": "Vladivir Kuzmenko <vladimir.kuzmenko.it@gmail.com>",
@@ -19,8 +19,9 @@
     "url": "https://github.com/Kuzmenko-V/Finance_Ledger/issues"
   },
   "devDependencies": {
-    "parcel": "^2.3.2",
+    "@parcel/transformer-sass": "^2.3.2",
     "gh-pages": "^3.1.0",
+    "parcel": "^2.3.2",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "posthtml-include": "^1.7.1",
