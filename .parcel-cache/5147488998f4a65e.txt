@@ -1,4 +1,4 @@
-21152
+21312
 53C:\Users\ADMIN\Desktop\Finance_Ledger\src\images\form132897433875444960 1
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-module\test\varmod132899905054328319 1
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\util\support\isBufferBrowser.js132899905023789986 0
@@ -9,7 +9,7 @@
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\abortcontroller-polyfill\dist132899905030152956 1
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\convert-source-map132899905011831957 1
 125C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\preset-modules\lib\plugins\transform-async-arrows-in-class\index.js132899905011971571 0
-42C:\Users\ADMIN\Desktop\Finance_Ledger\dist132899937639577699 1
+42C:\Users\ADMIN\Desktop\Finance_Ledger\dist132899945429117871 1
 105C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es6.reflect.define-property.js132899905071961171 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\helper-define-polyfill-provider\package.json132899905038570457 0
 41C:\Users\ADMIN\Desktop\Finance_Ledger\src132899913846752430 1
@@ -204,7 +204,7 @@
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\dotenv132899905022593179 1
 57C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\assert132899905025126403 1
 106C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\nodes\SVGGraphicsElement-impl.js132899905068141385 0
-50C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules132899905435483582 1
+50C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules132899937645222600 1
 68C:\Users\ADMIN\Desktop\Finance_Ledger\src\images\team\person3@2x.jpg132592430820000000 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\transforms\babel\astConverter.js132899905061459256 0
 55C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pify132899905011522770 1
@@ -335,6 +335,7 @@
 68C:\Users\ADMIN\Desktop\Finance_Ledger\src\images\team\person2@2x.jpg132592429460000000 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-keys\index.js132899905023560594 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\math\umulh.js132899905086931142 0
+132C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog.2401c330.webp132899937711982939 0
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\is-accessor-descriptor\package.json132899905002626551 0
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\coa\node_modules\color-name\index.js132899905018314610 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\setprototypeof132899905018863150 1
@@ -381,7 +382,7 @@
 59C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\inherits132899905016659044 1
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\resolve\test\module_dir\ymodules\aaa\index.js132899905045112970 0
 115C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-local-by-default\node_modules\chalk\templates.js132899905021535999 0
-75C:\Users\ADMIN\Desktop\Finance_Ledger\src\sass\components\_header-site.scss132899018323320522 0
+75C:\Users\ADMIN\Desktop\Finance_Ledger\src\sass\components\_header-site.scss132899944544369043 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_castRest.js132899905057809016 0
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\meter.js132899905070315571 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\remove-trailing-separator\license132899905012440322 0
@@ -499,6 +500,7 @@
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash.memoize132899905011602558 1
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\stubString.js132899905076369385 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\request-promise-core\package.json132899905024378399 0
+142C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-rebase.sample132899937650834073 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nan\nan_weak.h132899905039368318 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parse-asn1\certificate.js132899905009468279 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2017\IsPromise.js132899905069188583 0
@@ -960,7 +962,6 @@
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\yaml\browser\dist\util.js132899905046918130 0
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\resolve\test\precedence\bbb\main.js132899905053340961 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\src\images\cases\cases6.webp132592418360000000 0
-66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\performance-now132899905028666936 1
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\reflect\index.js132899905079451145 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\to-object-path\package.json132899905001938400 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\src\images\cases\cases6@2x.jpg132592413880000000 0
@@ -1038,6 +1039,11 @@
 59C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\chokidar132899905026432905 1
 116C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-parser\.github\funding.yml132899905034690823 0
 113C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash-base\node_modules\readable-stream\lib\_stream_readable.js132899905017656401 0
+68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\uglifyjs.cmd132899905088935787 0
+72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\restFrom.js132899905075401972 0
+90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parse5\lib\extensions\position-tracking132899905035608367 1
+123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\sourceIndex.js132899905039338397 0
+57C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache132899937645232572 1
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-scope132899905007832636 1
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\PE.js132899905072170626 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\yaml\dist\Document-9b4560a1.js132899905018334557 0
@@ -1297,6 +1303,7 @@
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\source-map\lib\base64-vlq.js132899905037283900 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\css-select\lib\general.d.ts.map132899905036356383 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\sass\types\legacy132899905055215938 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\11\2443e5585691b8666aa1f0c0ab76fa871bba08132899937712780806 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\side-channel\node_modules\object-inspect\test\has.js132899905034391631 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\unset-value\node_modules\has-value\README.md132899905007144473 0
 55C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\atob132899905026432905 1
@@ -1866,15 +1873,15 @@
 64C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\mime.ps1132899905088925804 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\log-symbols\node_modules\chalk\types\index.d.ts132899905024328540 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\cssnano-util-get-match132899905015561973 1
-105C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Binary_Property\Emoji.js132899905056442661 0
-83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-module\test\brfs\empty.js132899905037144262 0
-69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\xml-name-validator132899905010685006 1
-70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nanoid\url-alphabet132899905036695467 1
-79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\serialize-to-js\package.json132899905026243428 0
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\babel-runtime\helpers\_instanceof.js132899905052343631 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\ansi-styles\package.json132899905275268402 0
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parse-json132899905011522770 1
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\cssnano-util-raw-cache132899905015561973 1
+69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\xml-name-validator132899905010685006 1
+105C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Binary_Property\Emoji.js132899905056442661 0
+83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-module\test\brfs\empty.js132899905037144262 0
+70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nanoid\url-alphabet132899905036695467 1
+79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\serialize-to-js\package.json132899905026243428 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\expand-brackets132899905020129756 1
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es6.string.includes.js132899905073197860 0
 57C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nwsapi132899905026024010 1
@@ -2060,6 +2067,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\postcss\lib\processor.js132899905275856831 0
 113C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\postcss\lib\declaration.js132899905036675513 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\request-promise-native132899905017776050 1
+126C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects132899937715104602 1
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\xml-name-validator\lib\generated-parser.js132899905015432336 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2018\SecFromTime.js132899905074903302 0
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\resolve\test\resolver\incorrect_main132899905056372858 1
@@ -2790,6 +2798,7 @@
 115C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\source-map\lib132899905037962078 1
 140C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\package.json132899905056143464 0
 62C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object.pick132899905011552692 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\26132899937713608594 1
 64C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object.values132899905035289234 1
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\EG.js132899905064630771 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object.getownpropertydescriptors\CHANGELOG.md132899905033902933 0
@@ -2802,6 +2811,7 @@
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uglify-js\lib\mozilla-ast.js132899905036077127 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\ByteListBitwiseOp.js132899905056422716 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.string.includes.js132899905073227785 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\9a\be50246ccec723776ef52965ffca3b08e4732f132899937713080006 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nanomatch\package.json132899905002117918 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\whatwg-url\LICENSE.txt132899905030871042 0
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\optionator132899905024448217 1
@@ -2872,6 +2882,7 @@
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\path-parse132899905011532747 1
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@swc\helpers\lib\_iterable_to_array.js132899905044195410 0
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\picocolors132899905022204228 1
+66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\performance-now132899905028666936 1
 115C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-proposal-logical-assignment-operators\lib\index.js132899905010525450 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\physical-cpu-count132899905016499469 1
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\whatwg-url132899905030731410 1
@@ -2944,6 +2955,7 @@
 62C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\sha.js132899905088925804 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-normalize-positions132899905012530079 1
 131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\htmlparser2\lib\index.d.ts.map132899905030711464 0
+146C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-applypatch.sample132899937650824088 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-normalize-repeat-style132899905018414347 1
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules132899904974222503 1
 108C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-scope\node_modules\postcss\lib\comment.js132899905033653620 0
@@ -3615,6 +3627,7 @@
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\terser\lib\ast.js132899905025984113 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\vlq\src\vlq.js132899905021655678 0
 108C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\parser\create.js132899905039338397 0
+60C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog.4a6c4f24.jpg132899944622890228 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\.babelrc132899905057818982 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\xxhash-wasm\cjs\xxhash-wasm.js132899905002905812 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\providers\filters\entry.d.ts132899905052194024 0
@@ -4208,6 +4221,7 @@
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerator-transform\src\meta.js132899905030472102 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\util.promisify\.github\workflows132899905030871042 1
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\util.promisify\.github\workflows\rebase.yml132899905031060559 0
+132C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.45e0e7c0.css132899937711982939 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pkg-dir\readme.md132899905017805968 0
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es6.typed.uint16-array.js132899905073925916 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\readable-stream\lib\_stream_duplex.js132899905007453650 0
@@ -4361,6 +4375,7 @@
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\babel-runtime\core-js\object\seal.js132899905057749170 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\regexps-iri.js.map132899905039408209 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\symbol-tree\lib\TreeIterator.js132899905023041978 0
+181C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\pack\pack-89934344cb773af18351720d16b204a9f245f2f4.idx132899937700682974 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\runtime\helpers\esm\get.js132899905055146146 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\split-string\LICENSE132899905009358557 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\type-fest\source\entries.d.ts132899905031240049 0
@@ -4426,6 +4441,7 @@
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pn\http.js132899905034431521 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\schemes\urn.js132899905033563845 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\schemes\urn.js.map132899905042599682 0
+128C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\tags132899937650873954 1
 63C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\read.js132899905058028443 0
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\schemes\ws.d.ts132899905048184750 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\tweetnacl\nacl.min.js132899905028118397 0
@@ -4434,6 +4450,7 @@
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\utils\urlJoin.js132899905057410078 0
 118C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\vendor.js132899905045292475 0
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\schemes\ws.js.map132899905043397563 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\30\f2aa0c4c33eb10e059b5f1976c496157a51217132899937712471631 0
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Binary_Property\Alphabetic.js132899905020698242 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\dist132899905074185227 1
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\schemes\wss.d.ts132899905050019835 0
@@ -4763,6 +4780,7 @@
 67C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\src\lib.js132899905011373170 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\stream-browserify\test132899905020638403 1
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\handlebars\LICENSE132899905007553386 0
+124C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\index132899937714875206 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-absolute-url\license132899905009996864 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\src\uncss.js132899905016300009 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-declaration-sorter132899905025276000 1
@@ -4772,6 +4790,7 @@
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\send\node_modules\debug\karma.conf.js132899905018683625 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2017\Invoke.js132899905066864795 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_lazyClone.js132899905062257122 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\7a\6e37e87b42ee8a07e433612fd349436a14de2d132899937713299424 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\relateurl\lib\parse\hrefInfo.js132899905025994075 0
 106C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss-selector-parser\CHANGELOG.md132899905011123834 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\reflect\set-prototype-of.js132899905084208425 0
@@ -4831,10 +4850,6 @@
 124C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\terser\lib\transform.js132899905051924737 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\utils\path.d.ts132899905054009173 0
 119C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\pseudos.js132899905038909547 0
-68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\uglifyjs.cmd132899905088935787 0
-72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\restFrom.js132899905075401972 0
-90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parse5\lib\extensions\position-tracking132899905035608367 1
-123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\sourceIndex.js132899905039338397 0
 116C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\tags.js132899905040036528 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\nodes\HTMLSlotElement-impl.js132899905067263739 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\node-forge\lib\des.js132899905030482076 0
@@ -5042,6 +5057,7 @@
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uglify-js\README.md132899905043507252 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\sshpk\bin\sshpk-verify132899905018364485 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\css-featurequeries.js132899905059723900 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\a9132899937713568699 1
 108C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\@parcel\workers\src\Worker.js132899905025625074 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\uglify-js\tools132899905041323089 1
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\generated\DocumentFragment.js132899905055066345 0
@@ -5343,6 +5359,7 @@
 108C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\msgpackr-extract\prebuilds\darwin-x64\electron.abi98.node132899905028976101 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\timsort\build\timsort.min.js132899905024368423 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-eval\node_modules\escodegen\bin\esgenerate.js132899905020458881 0
+113C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git132899937711953019 1
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\randomfill\LICENSE132899905020688272 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\core\delay.js132899905067572906 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\timers-browserify\package.json132899905006625871 0
@@ -5504,6 +5521,7 @@
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\value.js132899905079092113 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\symbol-tree\README.md132899905010166400 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\tooltag132899905037034553 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog.876ea2e8.jpg132899937711982939 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\helper-environment-visitor\README.md132899905007124527 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerator-transform\lib\meta.js132899905029385017 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\SZ.js132899905074614086 0
@@ -5699,6 +5717,7 @@
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\des.js\test\cbc-test.js132899905010325972 0
 114C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules\chalk\templates.js132899905021545975 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss\package.json132899905040854354 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\39132899937713668437 1
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\isObject.js132899905071681919 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\resolve\test\mock.js132899905053660118 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nanoid\url-alphabet\index.js132899905032157603 0
@@ -5733,6 +5752,7 @@
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\strip-ansi\license132899905009348588 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\reflect\get-own-metadata.js132899905077576162 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\send\node_modules\debug\node_modules\ms\package.json132899905002626551 0
+64C:\Users\ADMIN\Desktop\Finance_Ledger\dist\showcase.04e29b30.jpg132899944622920162 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\node-forge\lib\ed25519.js132899905031269970 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\entities\lib\encode.d.ts.map132899905036745366 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es7.array.includes.js132899905074265019 0
@@ -5984,6 +6004,7 @@
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\modules\core.string.escape-html.js132899905066864795 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\av1.js132899905046668797 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\string\virtual\starts-with.js132899905085465078 0
+63C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog@2x.4bfc287f.jpg132899944623498602 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-normalize-repeat-style\package.json132899905015492155 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\src\installPackage.js132899905038011944 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-module\test\fs\robot.html132899905043716707 0
@@ -6139,6 +6160,7 @@
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-eval\node_modules\.bin\esgenerate132899905088965700 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\merge2\LICENSE132899905002137862 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-eval\node_modules\.bin\esgenerate.cmd132899905088965700 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3e132899937713409127 1
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\static-eval\node_modules\.bin\esgenerate.ps1132899905088965700 0
 123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-copy\node_modules\is-descriptor\node_modules\kind-of\package.json132899905002796098 0
 115C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\mdn-data\api\inheritance.schema.json132899905025605123 0
@@ -6400,6 +6422,7 @@
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\posthtml\types\posthtml.d.ts132899905026014028 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\source-map\lib\quick-sort.js132899905028397651 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\visitors\process.js132899905063045014 0
+137C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\styles.8986bff4.css.map132899937712012862 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\source-map\lib\source-map-consumer.js132899905029993386 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\HourFromTime.js132899905066326237 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\is-weakref\package.json132899905023580531 0
@@ -6498,6 +6521,7 @@
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2015\Invoke.js132899905066814932 0
 106C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\source-map\lib\binary-search.js132899905038301185 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-4\deasync.node132899905042430134 0
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people@2x.0a4c83b7.jpg132899937712112605 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\magic-string\dist132899905031269970 1
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-binary-path\readme.md132899905013188315 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\extendAllWith.js132899905068241121 0
@@ -6507,6 +6531,7 @@
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\posthtml-render\license132899905002686391 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\randombytes\LICENSE132899905020688272 0
 104C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\source-map\lib\source-node.js132899905040375631 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\73132899937714945019 1
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pinkie\license132899905009448321 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\source-map\lib\util.js132899905040734665 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\is-core-module\test132899905017875778 1
@@ -6917,6 +6942,7 @@
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script_Extensions\Hanunoo.js132899905058297705 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\send\README.md132899905019870455 0
 64C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\rimraf\bin.js132899905006665755 0
+65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people@2x.8b2e3502.jpg132899944623498602 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\Number\sameValueZero.js132899905074843465 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\send\node_modules\debug132899905030511994 1
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-calc\types\lib\stringifier.d.ts132899905037034553 0
@@ -7865,6 +7891,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Hebrew.js132899905058576953 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nanoid\non-secure\index.js132899905031449493 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\iconv-lite\lib\extend-node.js132899905039458078 0
+135C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.ea1a7101.js.map132899937711992912 0
 113C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Inscriptional_Parthian.js132899905059644115 0
 118C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\syntax\pseudo\nth-child.js132899905055425404 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Kaithi.js132899905059833598 0
@@ -8339,11 +8366,13 @@
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\commander\index.js132899905275338215 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\commander\LICENSE132899905275268402 0
 63C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash.js\test132899905036326452 1
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.45e0e7c0.css.map132899937711992912 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\plant.js132899905074733771 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\node-forge\lib\prng.js132899905051256534 0
 120C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js132899905042480003 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\mdn-data\css\at-rules.schema.json132899905024976797 0
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\commander\Readme.md132899905275477836 0
+60C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.975ef6c8.js132899944623149537 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\commander\typings132899905275497783 1
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\color-name\.npmignore132899905275308299 0
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\purgecss\node_modules\color-name\index.js132899905275427969 0
@@ -8411,6 +8440,7 @@
 120C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\helper-builder-binary-assignment-operator-visitor\lib\index.js132899905010555363 0
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\public-encrypt\test\pass.1024.priv132899905035608367 0
 104C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\focusin-focusout-events.js132899905065697923 0
+144C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\Finance_Ledger.59712999.js.map132899937711992912 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\public-encrypt\test\rsa.1024.priv132899905036855044 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\mdn-data\css\units.json132899905040216054 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\scope-hoisting\concat.js132899905053540423 0
@@ -8484,6 +8514,7 @@
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash-base\LICENSE132899905002227624 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-render\package.json132899905010585276 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\isarray\component.json132899905024976797 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\48\de4c3c3e80e9442d2a5d4f27acf859f1ec6c3c132899937713339317 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\types\lib\validators\isScope.js132899905056063682 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\base-x\package.json132899905007603247 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-render\lib\index.js132899905007702990 0
@@ -8704,6 +8735,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\color-name132899905022513382 1
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\color-name\package.json132899905002646502 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\has-flag132899905012061335 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\5a\d8b78feb9e1991aeb3d60242f4a634407e428c132899937712950359 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\postcss132899905031349756 1
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_baseXor.js132899905057469914 0
 111C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-values\node_modules\supports-color\readme.md132899905018194932 0
@@ -9057,6 +9089,8 @@
 115C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\list.js132899905038600383 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\debug\src\node.js132899905018544010 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\micromatch\node_modules\fill-range\node_modules132899904974292328 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\8a\fa9a15f2b1fcbab12e6b136dec7c9b3cb37af6132899937713458997 0
+124C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.html132899937711992912 0
 120C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\postcss.d.ts132899905041213385 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\css-tree\lib\syntax\node\Raw.js132899905056901436 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\workers\src\Worker.js132899905045262559 0
@@ -9105,6 +9139,7 @@
 67C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2016132899905081475732 1
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fs-extra\lib\index.js132899905037413546 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\picocolors\LICENSE132899905002048102 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\icon.2e1f0bdb.svg132899937711992912 0
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\minimalistic-crypto-utils\README.md132899905009498181 0
 107C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules\chalk\types132899905023700215 1
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\gh-pages\node_modules132899904974102819 1
@@ -9256,6 +9291,7 @@
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2018\CreateDataPropertyOrThrow.js132899905059544389 0
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-discard-comments\src\lib\commentParser.js132899905007832636 0
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-convert-values\package.json132899905017835889 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\73\19d9d55cec4208866264fd324a9cec3895d1e8132899937714905123 0
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\events\src\ValueEmitter.js132899905030502030 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\PY.js132899905072848799 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\postcss-convert-values\src132899905011552692 1
@@ -9525,6 +9561,7 @@
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2018\CreateIterResultObject.js132899905060102893 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pbkdf2\lib\precondition.js132899905021386407 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\observable.js132899905082483044 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\info\exclude132899937650863988 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pbkdf2\lib\sync-browser.js132899905023570560 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pbkdf2\lib\sync.js132899905025405659 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\pbkdf2\lib\to-buffer.js132899905026562562 0
@@ -9649,6 +9686,7 @@
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\helper-replace-supers\lib132899905009847260 1
 116C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main132899905055814344 1
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\Asset.js132899905057948636 0
+64C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog@2x.77db8999.webp132899944622421484 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-transform-react-jsx\lib\development.js132899905015651741 0
 157C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlparser2\node_modules\readable-stream\lib\internal\streams\end-of-stream.js132899905030262661 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\builtins132899905060352208 1
@@ -9945,6 +9983,7 @@
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\types\scripts\generators\builders.js132899905056971264 0
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\plugins\convertPathData.js132899905037603088 0
 113C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\plugins\convertShapeToPath.js132899905038061817 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people.85efeac4.webp132899937712052751 0
 114C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\plugins\convertStyleToAttrs.js132899905038580423 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\toInteger.js132899905076977759 0
 118C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\syntax\function\element.js132899905046798452 0
@@ -9973,6 +10012,7 @@
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\core\lib\public\PluginOptions.js132899905057240552 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\babel-plugin-polyfill-regenerator\esm\index.mjs132899905010395784 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\array\every.js132899905076100117 0
+142C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-commit.sample132899937650824088 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-transform-new-target\README.md132899905007094616 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\plugins\removeComments.js132899905044514567 0
 108C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\navigator\NavigatorPlugins-impl.js132899905065249116 0
@@ -10018,6 +10058,7 @@
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\lib\svgo\css-class-list.js132899905039188801 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\svgo\lib\svgo\plugins.js132899905043367623 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nth-check\lib\parse.d.ts132899905030312535 0
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\styles.8986bff4.js.map132899937712052751 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\types\lib\validators\isBlockScoped.js132899905055455309 0
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\CHANGELOG.md132899905058936009 0
 67C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\tryEach.js132899905057469914 0
@@ -10180,6 +10221,7 @@
 107C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-value-parser\LICENSE132899905007244211 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-value-parser\README.md132899905009966958 0
 112C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-value-parser\lib\index.js132899905015322613 0
+147C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\remotes\origin\gh-pages132899937739030166 0
 112C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-value-parser\lib\parse.js132899905019690931 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object.getownpropertydescriptors\implementation.js132899905023111785 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\domutils\test\utils.js132899905034242033 0
@@ -10490,6 +10532,7 @@
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\delayed-stream\Readme.md132899905017925648 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\css-tree\lib\tokenizer\char-code-definitions.js132899905033613704 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es7.promise.finally.js132899905075212476 0
+135C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog@2x.b59088bc.webp132899937711982939 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-colormin\dist\index.js132899905018723528 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\svg-html.js132899905074454503 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\micromatch\node_modules\to-regex-range\README.md132899905007323996 0
@@ -10638,6 +10681,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-number\index.js132899905013188315 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\get-intrinsic\LICENSE132899905012789382 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-number\package.json132899905002736264 0
+64C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.975ef6c8.js.map132899944623179461 0
 101C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-extendable\index.js132899905013198319 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\win32-ia32-node-12132899905055325677 1
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\is-extendable\LICENSE132899905010006823 0
@@ -11508,6 +11552,7 @@
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\scope-hoisting\mangler.js132899905053739900 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\scope-hoisting\shake.js132899905053929386 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\number\iterator.js132899905080867373 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\5a132899937712980280 1
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\scope-hoisting\utils.js132899905053989229 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\packagers\HTMLPackager.js132899905052313730 0
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableSectionElement.js132899905061120155 0
@@ -11710,6 +11755,7 @@
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_baseFor.js132899905046379589 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\locate-path\readme.md132899905017845865 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\once\package.json132899905002087995 0
+132C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\styles.8986bff4.js132899937712062727 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\on-finished\HISTORY.md132899905017825917 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\helper-function-name\package.json132899905015282719 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\nullthrows\nullthrows.js.flow132899905017825917 0
@@ -11809,6 +11855,7 @@
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-copy\package.json132899905002097967 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-copy\node_modules\define-property132899905012181009 1
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\math\log10.js132899905081515636 0
+135C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\showcase.1f03d6ac.jpg132899937712112605 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\ajv\lib\dot\format.jst132899905054707304 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-copy\node_modules\is-descriptor132899905012181009 1
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\object-copy\node_modules\kind-of\LICENSE132899905010056699 0
@@ -12011,8 +12058,8 @@
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\toPlainObject.js132899905077336794 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\neo-async\forEachSeries.js132899905051735247 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\array\values.js132899905087060802 0
-73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_cloneRegExp.js132899905058227892 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\neo-async\forever.js132899905051844960 0
+73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_cloneRegExp.js132899905058227892 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\math.js132899905073068216 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\neo-async\groupBy.js132899905051954661 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\neo-async\groupByLimit.js132899905052104282 0
@@ -12131,6 +12178,7 @@
 104C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\generated\NavigatorLanguage.js132899905062316974 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\msgpackr-extract\LICENSE132899905002147830 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\msgpackr-extract\package.json132899905019212217 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\src.e31bb0bc.css.map132899937712012862 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-transform-reserved-words\LICENSE132899905002506871 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\msgpackr-extract\src\extract.cpp132899905007523462 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\memoize.js132899905073207838 0
@@ -12385,6 +12433,7 @@
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash.memoize\index.js132899905013487518 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_arrayFilter.js132899905025405659 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash.memoize\LICENSE132899905009518136 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\46\a198ec485fa9ace66f097751c48b1b20d1a2e3132899937712641188 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash.memoize\package.json132899905002147830 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\cssesc\man\cssesc.1132899905022373757 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash.debounce\LICENSE132899905009518136 0
@@ -12597,6 +12646,7 @@
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\toUpper.js132899905077556230 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\unary.js132899905078124699 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\unescape.js132899905078174566 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\bd132899937712940378 1
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\union.js132899905078224429 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\unionBy.js132899905078284266 0
 110C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\node_modules\node-addon-api\doc\async_operations.md132899905040704751 0
@@ -12851,6 +12901,7 @@
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\CA.js132899905055186021 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_Symbol.js132899905064052316 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_wrapperClone.js132899905064371463 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\6d132899937712561389 1
 67C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_toKey.js132899905064072274 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_toSource.js132899905064092214 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\_trimmedEndIndex.js132899905064112166 0
@@ -12934,6 +12985,7 @@
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\codeframe\LICENSE132899905002486929 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\defaultTo.js132899905067014395 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\defer.js132899905067084208 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\0f\bebc927cd4901569d5b17f289fbbe58ac96b80132899937713259538 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\delay.js132899905067124125 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\function\bind.js132899905065039684 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\differenceWith.js132899905067253756 0
@@ -12988,6 +13040,7 @@
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\CreateListFromArrayLike.js132899905060481890 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\groupBy.js132899905069836847 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\js-tokens\package.json132899905002167781 0
+132C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.4d663569.css132899937712002889 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\helpers\internal-constants.js132899905064471205 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash.js\test\hash-test.js132899905035867677 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\gt.js132899905069866769 0
@@ -13116,6 +13169,7 @@
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\core\src\transform-file-browser.ts132899905053201332 0
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\node_modules\object-inspect\.nycrc132899905010096592 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\over.js132899905073995727 0
+182C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\pack\pack-89934344cb773af18351720d16b204a9f245f2f4.pack132899937712511525 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\overEvery.js132899905074085495 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lodash\fp\overSome.js132899905074125388 0
 61C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\isexe\test132899905024976797 1
@@ -13464,6 +13518,7 @@
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1132899905039438155 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c132899905045382242 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\InstanceofOperator.js132899905066785010 0
+118C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git132899937714974938 1
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1132899905040216054 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js-compat\modules-by-versions.json132899905033992707 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c132899905046529191 0
@@ -13693,6 +13748,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\window\Location-impl.js132899905068819572 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\_an-object.js132899905036705433 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\window\navigation.js132899905068849493 0
+150C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\fsmonitor-watchman.sample132899937650814131 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\window\Screen-impl.js132899905068859498 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\window\SessionHistory.js132899905068889392 0
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\webstorage\Storage-impl.js132899905068689914 0
@@ -14501,6 +14557,7 @@
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\htmlnano\index.js132899905031259998 0
 63C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\htmlnano\lib132899905030472102 1
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\htmlnano\LICENSE.txt132899905054298401 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\39\b1fe96e6faf44153f371e0ab4be341305e23fc132899937713628545 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\htmlnano\README.md132899905054029123 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\htmlnano\lib\helpers.js132899905029793934 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\cssstyle\lib\properties\flex.js132899905046808431 0
@@ -14614,6 +14671,7 @@
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-transform-modules-umd\LICENSE132899905002516848 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash-base\node_modules\readable-stream\lib132899905024787307 1
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\hash-base\node_modules\readable-stream\lib\internal132899905025285973 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\28132899937712770839 1
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\reduceRight.js132899905055794397 0
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\audiotracks.js132899905045372272 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\transformer-css\LICENSE132899905002457014 0
@@ -15006,6 +15064,7 @@
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\MakeTime.js132899905071253076 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fs-extra\lib\copy\copy.js132899905026941552 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fs-extra\lib\copy\index.js132899905028208161 0
+140C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\Finance_Ledger.59712999.js132899937711992912 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\notifications.js132899905071183257 0
 67C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fresh\HISTORY.md132899905017905702 0
 64C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\fresh\LICENSE132899905009607910 0
@@ -15016,6 +15075,7 @@
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\form-data\package.json132899905002257540 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\form-data\README.md.bak132899905013567308 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\form-data\yarn.lock132899905021795304 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.ea1a7101.js132899937711992912 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\string\virtual\at.js132899905064830243 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\ajv\lib\compile\rules.js132899905052074343 0
 76C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\form-data\lib\populate.js132899905027579839 0
@@ -15590,6 +15650,7 @@
 107C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js-compat\node_modules\semver\classes\comparator.js132899905022034681 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\ToUint8Clamp.js132899905080608053 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\Type.js132899905080757654 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\info132899937650963713 1
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\UnicodeEscape.js132899905080877338 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\UTF16EncodeCodePoint.js132899905081096748 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2021\YearFromTime.js132899905081585440 0
@@ -15732,6 +15793,7 @@
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\ToUint8Clamp.js132899905080598078 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\TrimString.js132899905080657918 0
 62C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin132899905061469223 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3c\d22b6b680f07d63a80f65f243241fcfca9f0c2132899937712371907 0
 75C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\Type.js132899905080747684 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\UnicodeEscape.js132899905080857382 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\es-abstract\2020\UTF16Encoding.js132899905081176541 0
@@ -16492,6 +16554,7 @@
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-15132899905040305809 1
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-16132899905040884275 1
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-5132899905042739311 1
+130C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\src.e31bb0bc.css132899937712012862 0
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-6132899905043297821 1
 80C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\darwin-x64-node-9132899905044424810 1
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\acorn\dist\acorn.d.ts132899905034072478 0
@@ -16563,6 +16626,7 @@
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\linux-ia32-node-8\deasync.node132899905050398833 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-syntax-class-static-block\LICENSE132899905002536793 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\linux-ia32-node-5\deasync.node132899905046997918 0
+65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.6ac6e2c0.css.map132899945429018419 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\linux-ia32-node-4\deasync.node132899905046658830 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\deasync\bin\linux-ia32-node-0.12\deasync.node132899905045452064 0
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\runtime\helpers\construct.js132899905043287839 0
@@ -17128,6 +17192,7 @@
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.object.seal.js132899905071342839 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\core\lib\public\Bundle.js132899905042659534 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.object.to-string.js132899905071412636 0
+61C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog.816abe6c.webp132899944622471363 0
 83C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.parse-int.js132899905071552263 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.promise.js132899905071661966 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.reflect.construct.js132899905071861432 0
@@ -17152,6 +17217,7 @@
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.typed.data-view.js132899905073746401 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.typed.float32-array.js132899905073786292 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.typed.int8-array.js132899905073905980 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\8a132899937713488914 1
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.typed.uint16-array.js132899905073935901 0
 107C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-syntax-nullish-coalescing-operator\LICENSE132899905002536793 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\chrome-trace-event\dist\trace-event.d.ts132899905021855146 0
@@ -17602,6 +17668,7 @@
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\dom-collections\iterator.js132899905080967091 0
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\date\now.js132899905082283582 0
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\array\concat.js132899905065777702 0
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\remotes132899937701217371 1
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\buffer\test\node\test-buffer-concat.js132899905038031895 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\colord\colord.d.ts132899905040565132 0
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\array\copy-within.js132899905066066941 0
@@ -17637,6 +17704,7 @@
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\combined-stream\License132899905006964952 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\array\virtual\some.js132899905085165863 0
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\fn\array\virtual\sort.js132899905085255627 0
+143C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\remotes\origin\HEAD132899937701227344 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\es7\error.js132899905068360799 0
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\es7\index.js132899905079700485 0
 77C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\library\es7\map.js132899905081914559 0
@@ -17741,6 +17809,7 @@
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\generator\lib\generators\jsx.js132899905028008694 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\object\define-properties.js132899905067243787 0
 85C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\object\define-setter.js132899905067343515 0
+128C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs132899937701267245 1
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\object\define.js132899905067383416 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\fn\object\get-own-property-symbols.js132899905077875379 0
 102C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\requestanimationframe.js132899905073138025 0
@@ -17826,6 +17895,7 @@
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\es6\set.js132899905084377975 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\es6\string.js132899905085594721 0
 71C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\es6\typed.js132899905086761613 0
+123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs132899937701197432 1
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\core-js\es6\weak-map.js132899905087130616 0
 93C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-transform-new-target\LICENSE132899905002506871 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\core\test\fixtures\module-b.js132899905055325677 0
@@ -17882,6 +17952,7 @@
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\command-exists\test\non-executable-script.js132899905022373757 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\combined-stream\lib132899905017955577 1
 79C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\combined-stream\package.json132899905002347306 0
+66C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people@2x.686202fc.webp132899944622441445 0
 70C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\colord\CHANGELOG.md132899905031150304 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\colord\index.js132899905018573935 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\colord\LICENSE.md132899905031908275 0
@@ -18331,6 +18402,7 @@
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\rel-noreferrer.js132899905073078200 0
 84C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\rem.js132899905073118079 0
 100C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\requestidlecallback.js132899905073148001 0
+137C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people@2x.1cff932e.webp132899937712102623 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\resizeobserver.js132899905073167951 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\rest-parameters.js132899905073207838 0
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\run-in.js132899905073347473 0
@@ -18533,6 +18605,7 @@
 91C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-proposal-optional-chaining132899905018643738 1
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\browserify-sign\node_modules\readable-stream132899905039338397 1
 105C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\browserify-sign\node_modules\readable-stream\errors.js132899905031589113 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\a9\501f417abc6e07e169b62eb7d02bf9817b1598132899937713538783 0
 109C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\browserify-sign\node_modules\readable-stream\GOVERNANCE.md132899905039109012 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\plugin-proposal-optional-chaining\LICENSE132899905002546771 0
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\browserify-sign\node_modules\readable-stream\LICENSE132899905002875897 0
@@ -19000,6 +19073,7 @@
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\data\native-modules.json132899905024677599 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\groupByLimit.js132899905053281113 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\groupBySeries.js132899905053360910 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\11132899937712810729 1
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\index.js132899905053490555 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\async\inject.js132899905053690042 0
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\09132897395951825352 1
@@ -19112,6 +19186,7 @@
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\asn1\lib\ber\reader.js132899905023281346 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\asn1\lib\ber\types.js132899905025126403 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\asn1\lib\ber\writer.js132899905026432905 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people.f9ee6a78.jpg132899937712062727 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\array-unique\index.js132899905012968905 0
 73C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\array-unique\README.md132899905007014822 0
 69C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\array-uniq\license132899905009757491 0
@@ -19634,6 +19709,7 @@
 86C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\runtime-js\src\JSRuntime.js132899905041931465 0
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\57132899895553489162 1
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json132899905045142879 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\bd\b2ce6ea3ab80a9b28dab8b24972680e61fd470132899937712880536 0
 142C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b\index.js132899905046958033 0
 95C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js132899905023381070 0
 96C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js132899905026442903 0
@@ -19730,6 +19806,7 @@
 87C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\package.json132899905044045832 0
 78C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\src132899905043587041 1
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\test\fixtures132899905044674129 1
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people.38cdfb41.webp132899937712062727 0
 112C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js132899905043417512 0
 89C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\core\test\EntryRequest.test.js132899905053151461 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\package-manager\test\fixtures\empty132899905044444745 1
@@ -19786,6 +19863,7 @@
 81C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\src132899905053151461 1
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture132899905056412751 1
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\foo.js132899905039128964 0
+123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs132899937701257274 1
 97C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\nested132899905053929386 1
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\node_modules132899905053989229 1
 103C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@parcel\node-resolver-core\test\fixture\package.json132899905056422716 0
@@ -20883,6 +20961,7 @@
 90C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\corejs2-built-ins.js132899905009867203 0
 98C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\corejs3-shipped-proposals.js132899905013068642 0
 74C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\data132899905028307894 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\70\d58fb12d3899f8b767f456792afd690e28b429132899937712691058 0
 92C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\overlapping-plugins.js132899905030671575 0
 82C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\package.json132899905031349756 0
 88C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@babel\compat-data\plugin-bugfixes.js132899905032077837 0
@@ -20902,6 +20981,81 @@
 104C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@ampproject\remapping\dist\types\source-map-tree.d.ts132899905030831149 0
 99C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@ampproject\remapping\dist\types\source-map.d.ts132899905031549228 0
 94C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\@ampproject\remapping\dist\types\types.d.ts132899905032247358 0
+66C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages132899937650774221 1
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog.21da8320.jpg132899937711982939 0
+132C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog.44ca2c34.webp132899937711982939 0
+135C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog@2x.3da2015f.webp132899937711982939 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog@2x.47039f17.jpg132899937712062727 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\blog@2x.ba75ce35.jpg132899937712032819 0
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\icon.eefce13b.svg132899937711982939 0
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\index.4d663569.css.map132899937712002889 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people.05737c2d.jpg132899937712062727 0
+137C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people@2x.387df2e1.webp132899937712092647 0
+136C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\people@2x.5cdb0f99.jpg132899937712112605 0
+128C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\portfolio.html132899937712012862 0
+135C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\showcase.3da65b84.jpg132899937712122569 0
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\showcase@2x.3fefbd02.jpg132899937712122569 0
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\showcase@2x.7afa280c.jpg132899937712132541 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\sprite.5ec50489.svg132899937712002889 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\sprite.f14d31f7.svg132899937712002889 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\src.e31bb0bc.js132899937712012862 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\src.e31bb0bc.js.map132899937712012862 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\styles.8986bff4.css132899937712012862 0
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\_portfolio.f627f17c.html132899937711982939 0
+133C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\COMMIT_EDITMSG132899937714895156 0
+125C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\config132899937714167097 0
+130C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\description132899937650794157 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\FETCH_HEAD132899937707741269 0
+123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\HEAD132899937709998242 0
+124C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks132899937650854008 1
+123C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\info132899937650863988 1
+130C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\packed-refs132899937701187475 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\heads132899937714974938 1
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\remotes132899937701197432 1
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\remotes\origin132899937739040423 1
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\heads\gh-pages132899937714964970 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\refs\heads\main132899937701257274 0
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\0f132899937713289452 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\30132899937712501552 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3a132899937712461659 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3c132899937712401823 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\46132899937712671100 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\48132899937713369230 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\67132899937712631207 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\70132899937712720971 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\77132899937713528810 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\7a132899937713329336 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\9a132899937713109947 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\d9132899937714875206 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\de132899937713449026 1
+129C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\ff132899937712880536 1
+131C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\pack132899937701307140 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\ff\1d2496d5d8104f3480fc62ccbaad2f724d66e6132899937712820702 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\de\72d75db5f12f4e23d29f4a52284eb7a005f406132899937713419109 0
+47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\63132897395960522089 1
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\d9\3ead290b5a18456c044927cb01423a3fba1c1a132899937714845295 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\77\d6cf1fb3dc792a38c09c747c05ae643689f7a0132899937713498886 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\6d\c1839a6519d3cfafe2fe34150fee7230678de6132899937712531479 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\67\51af2c12223f0c31408d04c9a7f0a49291c8a7132899937712601283 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3e\76fccec1877a259b57a818b955eaff0ef3e6df132899937713379213 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\3a\82a3e3f47d75f6753186064eb286d9c43b5f81132899937712421769 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\28\54a321dcfaa557288062f144c2b16bcd78f657132899937712730944 0
+168C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\objects\26\33e7365ab373851fe63ac3f1cb7539e21eb235132899937713578678 0
+128C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\HEAD132899937714964970 0
+134C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\heads132899937714964970 1
+143C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\remotes\origin132899937739030166 1
+152C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\remotes\origin\gh-pages132899937739040423 0
+148C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\remotes\origin\HEAD132899937701217371 0
+143C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\heads\gh-pages132899937714974938 0
+139C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\logs\refs\heads\main132899937701277216 0
+146C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\applypatch-msg.sample132899937650804136 0
+142C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\commit-msg.sample132899937650804136 0
+143C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\post-update.sample132899937650814131 0
+148C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-merge-commit.sample132899937650834073 0
+140C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-push.sample132899937650834073 0
+143C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\pre-receive.sample132899937650844029 0
+150C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\prepare-commit-msg.sample132899937650844029 0
+138C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.cache\gh-pages\https!github.com!Kuzmenko-V!Finance_Ledger.git\.git\hooks\update.sample132899937650854008 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\acorn.cmd132899905088905867 0
 68C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\ansi-to-html132899905088905867 0
 72C:\Users\ADMIN\Desktop\Finance_Ledger\node_modules\.bin\ansi-to-html.cmd132899905088905867 0
@@ -20975,16 +21129,23 @@
 61C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog.44ca2c34.webp132898941728982753 0
 64C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog@2x.3da2015f.webp132899937611542677 0
 63C:\Users\ADMIN\Desktop\Finance_Ledger\dist\blog@2x.47039f17.jpg132898941729002703 0
+60C:\Users\ADMIN\Desktop\Finance_Ledger\dist\icon.a422163e.svg132899944623698084 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.45e0e7c0.css.map132899937639547788 0
 61C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.4d663569.css132897391790743774 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.4d663569.css.map132897391790773694 0
+61C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.6ac6e2c0.css132899945428988517 0
 60C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.ea1a7101.js132899937639547788 0
-53C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.html132899937639547788 0
+61C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.f7626f62.css132899944623548470 0
+65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.f7626f62.css.map132899944623548470 0
+53C:\Users\ADMIN\Desktop\Finance_Ledger\dist\index.html132899945428988517 0
+62C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people.9b2574da.jpg132899944622890228 0
+63C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people.eead7dc3.webp132899944622471363 0
 66C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people@2x.387df2e1.webp132899937611572580 0
 65C:\Users\ADMIN\Desktop\Finance_Ledger\dist\people@2x.5cdb0f99.jpg132898941728992721 0
 57C:\Users\ADMIN\Desktop\Finance_Ledger\dist\portfolio.html132897414456123856 0
 67C:\Users\ADMIN\Desktop\Finance_Ledger\dist\showcase@2x.3fefbd02.jpg132899937635618290 0
 67C:\Users\ADMIN\Desktop\Finance_Ledger\dist\showcase@2x.7afa280c.jpg132898941729002703 0
+67C:\Users\ADMIN\Desktop\Finance_Ledger\dist\showcase@2x.909c3256.jpg132899944623548470 0
 62C:\Users\ADMIN\Desktop\Finance_Ledger\dist\sprite.5ec50489.svg132897395960901080 0
 59C:\Users\ADMIN\Desktop\Finance_Ledger\dist\src.e31bb0bc.css132899018326247442 0
 58C:\Users\ADMIN\Desktop\Finance_Ledger\dist\src.e31bb0bc.js132899018326297319 0
@@ -21044,7 +21205,6 @@
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\5c132897395960472226 1
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\5e132897395960492171 1
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\60132897395960512129 1
-47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\63132897395960522089 1
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\64132897395960532062 1
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\66132897395960711594 1
 47C:\Users\ADMIN\Desktop\Finance_Ledger\.cache\67132897395964102524 1
