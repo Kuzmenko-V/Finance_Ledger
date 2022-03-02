@@ -1,4 +1,4 @@
-20824
+20837
 73C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\stylehacks\package.json132906278556789330 0
 109C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-parser\.lintstagedrc132906278247400416 0
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\regions\DJ.js132906278789167278 0
@@ -67,6 +67,13 @@
 53C:\Users\ANNA\Desktop\Finance_Ledger\.prettierrc.json132906277297339563 0
 75C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\falafel\example\prompt.js132906278477070214 0
 71C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\cli-spinners\index.js132906278173959164 0
+109C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.js132906278382152480 0
+71C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\nanoid\async\index.js132906278466107470 0
+130C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Property_of_Strings\RGI_Emoji_Modifier_Sequence.js132906278798754719 0
+61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash.uniq132906278238850890 1
+96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\assets\CoffeeScriptAsset.js132906278412362907 0
+80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\http-signature\http_signing.md132906278340815353 0
+61C:\Users\ANNA\Desktop\Finance_Ledger\src\partials\footer.html132907194853587638 0
 48C:\Users\ANNA\Desktop\Finance_Ledger\.htmlnanorc132906277293122364 0
 61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ansi-styles132906278278452394 1
 65C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\mixin.js132906278893563811 0
@@ -139,7 +146,7 @@
 79C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2018\ToInteger.js132906278922400700 0
 65C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\whatwg-encoding132906278225196924 1
 63C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\has.js132906278844994371 0
-65C:\Users\ANNA\Desktop\Finance_Ledger\dist\people@2x.686202fc.webp132906304159932985 0
+65C:\Users\ANNA\Desktop\Finance_Ledger\dist\people@2x.686202fc.webp132907204819244068 0
 67C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\browserify-cipher132906278349090408 1
 59C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\is-string132906278443018238 1
 105C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-ordered-values\dist132906278400961058 1
@@ -149,7 +156,7 @@
 114C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\postcss-calc\dist\lib\convertUnit.js132906278197164526 0
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneSymbol.js132906278735519728 0
 61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\json-schema132906278313988322 1
-41C:\Users\ANNA\Desktop\Finance_Ledger\dist132906304160320394 1
+41C:\Users\ANNA\Desktop\Finance_Ledger\dist132907204825752783 1
 61C:\Users\ANNA\Desktop\Finance_Ledger\src\partials\agency.html132906277298276754 0
 65C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\browserify-sign132906278444129471 1
 65C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\symbol-tree\lib132906278392021851 1
@@ -161,7 +168,7 @@
 91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\which-boxed-primitive\.github\FUNDING.yml132906278464255711 0
 66C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\fp\map.js132906278856030387 0
 63C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\url\README.md132906278203153701 0
-74C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_header-site.scss132906277298432960 0
+74C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_header-site.scss132907177202702461 0
 69C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\request\lib\hawk.js132906278342727927 0
 78C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\yaml\browser\types\binary.js132906278196016638 0
 74C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\setimmediate\LICENSE.txt132906278203466079 0
@@ -255,7 +262,7 @@
 76C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_default-fonds.scss132906277298432960 0
 69C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uglify-js\README.md132906278621809149 0
 106C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es7.reflect.get-metadata-keys.js132906278899596590 0
-51C:\Users\ANNA\Desktop\Finance_Ledger\src\index.html132906277298276754 0
+51C:\Users\ANNA\Desktop\Finance_Ledger\src\index.html132907195933253694 0
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@parcel\core\lib\applyRuntimes.js132906278498064846 0
 62C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ansi-to-html132906278491126314 1
 69C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\assert\package.json132906278124711663 0
@@ -264,7 +271,7 @@
 64C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\optionator\lib132906278348271744 1
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\object.getownpropertydescriptors\shim.js132906278466107470 0
 114C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\lexer\prepare-tokens.js132906278723222188 0
-49C:\Users\ANNA\Desktop\Finance_Ledger\src\partials132906277298432960 1
+49C:\Users\ANNA\Desktop\Finance_Ledger\src\partials132907192908450712 1
 66C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\fp\min.js132906278893186350 0
 80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\fn\object\is-sealed.js132906278951925868 0
 114C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-modules-extract-imports\node_modules\chalk\index.js.flow132906278210856425 0
@@ -411,18 +418,18 @@
 121C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\definition-syntax\tokenizer.js132906278733274451 0
 70C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\stylehacks\README.md132906278561344952 0
 98C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\unicode-property-aliases-ecmascript\package.json132906278171106767 0
-79C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_default-settings.scss132906277298432960 0
+79C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_default-settings.scss132906330661565955 0
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\has-symbols\.github\FUNDING.yml132906278485631120 0
 76C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\is-plain-object\index.d.ts132906278284945857 0
 55C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\saxes132906278283650554 1
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\mdn-data\api132906278401243535 1
-67C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_team.scss132906277298432960 0
+67C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_team.scss132907201457887751 0
 75C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\terser\dist\bundle.min.js132906278543768660 0
 103C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Gunjala_Gondi.js132906278733334058 0
 93C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\library\modules\es6.date.to-json.js132906278840687492 0
 106C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\snapdragon\node_modules\is-accessor-descriptor\README.md132906278174924182 0
 58C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\css-tree132906278738688144 1
-74C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_footer-site.scss132906277298432960 0
+74C:\Users\ANNA\Desktop\Finance_Ledger\src\sass\components\_footer-site.scss132907204424221654 0
 68C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\hsl-regex\index.js132906278242632268 0
 97C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@babel\core\lib\tools\build-external-helpers.js132906278632698806 0
 77C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ajv\lib\dotjs\properties.js132906278655025201 0
@@ -488,7 +495,7 @@
 75C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lines-and-columns\LICENSE132906278117960322 0
 100C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHRElement-impl.js132906278819011093 0
 80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\util.js.map132906278617838583 0
-59C:\Users\ANNA\Desktop\Finance_Ledger\src\partials\team.html132906277298432960 0
+59C:\Users\ANNA\Desktop\Finance_Ledger\src\partials\team.html132907200792685244 0
 63C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\xtend\test.js132906278352752905 0
 61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\.bin\mkdirp132906278968505177 0
 88C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\log-symbols\node_modules\chalk\license132906278265322355 0
@@ -2197,6 +2204,7 @@
 60C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\node-forge132906278708391543 1
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\object-assign\index.js132906278171864330 0
 84C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\static-module\example\fs\source.js132906278452110138 0
+62C:\Users\ANNA\Desktop\Finance_Ledger\dist\person1.ad1ea8af.jpg132907204824552786 0
 155C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlparser2\node_modules\readable-stream\lib\internal\streams\from-browser.js132906278492512824 0
 91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\falafel\node_modules\isarray\package.json132906278161824548 0
 97C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Deseret.js132906278710225006 0
@@ -2276,12 +2284,12 @@
 53C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\has132906278277999169 1
 84C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.reflect.has.js132906278852421461 0
 70C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\fp\findKey.js132906278829178720 0
-91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\utils\openInBrowser.js132906278774804593 0
-78C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\resolve\test\node_path\x\ccc132906278644483174 1
-61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\has-bigints132906278443077845 1
-60C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uuid\v1.js132906278464295446 0
 97C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\resolve\test\resolver\invalid_main\package.json132906278722690589 0
 62C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\wcwidth\docs132906278352733033 1
+91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\src\utils\openInBrowser.js132906278774804593 0
+78C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\resolve\test\node_path\x\ccc132906278644483174 1
+60C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uuid\v1.js132906278464295446 0
+61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\has-bigints132906278443077845 1
 61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\has-symbols132906278482017450 1
 106C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\side-channel\node_modules\object-inspect\test-core-js.js132906278562925396 0
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerator-transform\src\util.js132906278496341959 0
@@ -2577,10 +2585,6 @@
 64C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash.memoize132906278238850890 1
 111C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\htmlparser2132906278500055090 1
 77C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\type-fest\source\merge.d.ts132906278552339037 0
-109C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\posthtml-include\node_modules\posthtml-parser\dist\index.js132906278382152480 0
-71C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\nanoid\async\index.js132906278466107470 0
-130C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Property_of_Strings\RGI_Emoji_Modifier_Sequence.js132906278798754719 0
-61C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash.uniq132906278238850890 1
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uncss\node_modules\postcss\lib\parser.js132906278497497410 0
 99C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\extglob\node_modules\define-property\package.json132906278161824548 0
 111C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlparser2\lib\WritableStream.js132906278464305382 0
@@ -4373,6 +4377,7 @@
 76C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\csso\lib\replace\Atrule.js132906278467504428 0
 87C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\regexps-iri.js.map132906278588355633 0
 85C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\es6.regexp.match.js132906278853434045 0
+62C:\Users\ANNA\Desktop\Finance_Ledger\dist\person2.4aab6def.jpg132907204824822778 0
 78C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\relateurl\lib\util\object.js132906278516613955 0
 88C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@parcel\packager-js\src\.eslintrc.json132906278523279533 0
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\uri-js\dist\esnext\regexps-uri.js132906278406437665 0
@@ -5467,8 +5472,8 @@
 64C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\svgo\README.md132906278713888583 0
 86C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\caniuse-lite\data\features\mathml.js132906278849692327 0
 84C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\node-addon-api\tools\conversion.js132906278491046847 0
-85C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\static-module\test\brfs\brackets.js132906278518015087 0
 76C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\svgo\plugins\cleanupIDs.js132906278467793155 0
+85C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\static-module\test\brfs\brackets.js132906278518015087 0
 101C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\jsdom\lib\jsdom\living\generated\HTMLMetaElement.js132906278753270942 0
 78C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\svgo\plugins\minifyStyles.js132906278613755344 0
 94C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\regenerate-unicode-properties\Script\Thai.js132906278814257849 0
@@ -8606,6 +8611,7 @@
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\js-yaml\lib\js-yaml\type\str.js132906278621246423 0
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss\lib\warning.js132906278598286324 0
 94C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-ordered-values\src\rules\flexFlow.js132906278401483778 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\person2.e8a72133.webp132907204817975212 0
 79C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\object.assign\dist\browser.js132906278392091380 0
 88C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\cross-spawn\lib\util\resolveCommand.js132906278448921868 0
 102C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-ordered-values\src\rules\listStyleTypes.json132906278500326871 0
@@ -8922,7 +8928,7 @@
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\fn\typed\int16-array.js132906278950943223 0
 122C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\lazy-result.js132906278547852405 0
 71C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\make-dir\package.json132906278205540389 0
-60C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog.816abe6c.webp132906304159744288 0
+60C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog.816abe6c.webp132907204817003710 0
 115C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\list.js132906278557092536 0
 115C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\node.js132906278589375906 0
 101C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js132906278608920737 0
@@ -9312,7 +9318,6 @@
 96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\css-tree\lib\utils132906278715768162 1
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss\lib\postcss.js132906278503326690 0
 80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2020\Number\add.js132906278630657682 0
-74C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneDataView.js132906278734878292 0
 73C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\postcss\lib\postcss.mjs132906278608146511 0
 100C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\log-symbols\node_modules\supports-color\browser.js132906278177375135 0
 74C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\web\immediate.js132906278911554381 0
@@ -9486,7 +9491,7 @@
 92C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2021\OrdinaryGetPrototypeOf.js132906278862124683 0
 88C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\visitors\process.js132906278732966538 0
 96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\performance-now\test\scripts\difference.coffee132906278489669496 0
-59C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog.4a6c4f24.jpg132906304159853534 0
+59C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog.4a6c4f24.jpg132907204824792781 0
 99C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\performance-now\test\scripts\initial-value.coffee132906278495122173 0
 80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\performance-now\src\index.d.ts132906278405198643 0
 96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\chokidar\README.md132906278391882797 0
@@ -10699,7 +10704,7 @@
 114C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\dom-serializer132906278371899276 1
 108C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\domutils132906278509104112 1
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2015\GetIterator.js132906278796116353 0
-64C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.f7626f62.css.map132906304159813790 0
+64C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.f7626f62.css.map132907204824552786 0
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@babel\helper-simple-access\package.json132906278268502543 0
 108C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\node_modules\htmlnano\node_modules\posthtml132906278393410679 1
 97C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2020\CanonicalNumericIndexString.js132906278728623639 0
@@ -11531,8 +11536,6 @@
 105C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\builtins\loaders\node\wasm-loader.js132906278647936961 0
 89C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\fn\object\prevent-extensions.js132906278955501136 0
 108C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\builtins\loaders\browser\html-loader.js132906278630876223 0
-96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\assets\CoffeeScriptAsset.js132906278412362907 0
-80C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\http-signature\http_signing.md132906278340815353 0
 87C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\assets\CSSAsset.js132906278443767408 0
 96C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2021\CompletePropertyDescriptor.js132906278736858711 0
 87C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\parcel-bundler\lib\assets\ElmAsset.js132906278459391052 0
@@ -11638,7 +11641,7 @@
 92C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ora\node_modules\supports-color\browser.js132906278176743595 0
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ora\node_modules\supports-color\index.js132906278211894785 0
 89C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ora\node_modules\supports-color\license132906278265203155 0
-64C:\Users\ANNA\Desktop\Finance_Ledger\dist\people@2x.8b2e3502.jpg132906304160191251 0
+64C:\Users\ANNA\Desktop\Finance_Ledger\dist\people@2x.8b2e3502.jpg132907204825302799 0
 91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ora\node_modules\supports-color\readme.md132906278312853175 0
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\ora\node_modules\strip-ansi\package.json132906278161632763 0
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2016\SameValueZero.js132906278898620742 0
@@ -12680,6 +12683,7 @@
 77C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneArrayBuffer.js132906278734224386 0
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneBuffer.js132906278734393907 0
 84C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\es-abstract\2016\HasOwnProperty.js132906278812512680 0
+74C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneDataView.js132906278734878292 0
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_cloneRegExp.js132906278735360790 0
 76C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_compareMultiple.js132906278736554740 0
 77C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lodash\_composeArgsRight.js132906278736928250 0
@@ -13320,7 +13324,7 @@
 101C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@babel\runtime\helpers\initializerDefineProperty.js132906278736918319 0
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lz4\lib\LICENSE132906278488497369 0
 81C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lz4\lib\lz4.h132906278724078572 0
-63C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog@2x.77db8999.webp132906304159744288 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog@2x.77db8999.webp132907204817123698 0
 86C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c132906278620060546 0
 86C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h132906278725687732 0
 69C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\braces\lib\utils.js132906278464706064 0
@@ -15033,7 +15037,7 @@
 91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\managers\tasks.d.ts132906278656265927 0
 95C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\adapters\fs-stream.d.ts132906278636578307 0
 93C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\adapters\fs-stream.js132906278639047437 0
-63C:\Users\ANNA\Desktop\Finance_Ledger\dist\showcase.04e29b30.jpg132906304160230988 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\showcase.04e29b30.jpg132907204825512787 0
 86C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\fast-glob\package\out\adapters\fs.js132906278647946894 0
 72C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\fast-glob\out\adapters132906278463937848 1
 91C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\@swc\helpers\src\_class_name_tdz_error.js132906278687162791 0
@@ -17009,6 +17013,7 @@
 83C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\library\fn\promise\try.js132906278961231608 0
 70C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\stage\pre.js132906278955471338 0
 86C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\core.get-iterator.js132906278815388851 0
+66C:\Users\ANNA\Desktop\Finance_Ledger\dist\person2@2x.ae161fb8.webp132907204817133698 0
 85C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\core.is-iterable.js132906278815498120 0
 89C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\core.number.iterator.js132906278819160096 0
 90C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\core-js\modules\core.object.is-object.js132906278820196095 0
@@ -20814,12 +20819,20 @@
 59C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\.bin\uuid132906278968634309 0
 63C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\.bin\uuid.ps1132906278968634309 0
 64C:\Users\ANNA\Desktop\Finance_Ledger\node_modules\.bin\which.cmd132906278968674061 0
-62C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog@2x.4bfc287f.jpg132906304159893251 0
-59C:\Users\ANNA\Desktop\Finance_Ledger\dist\icon.a422163e.svg132906304159744288 0
-59C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.975ef6c8.js132906304159843590 0
-63C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.975ef6c8.js.map132906304160151529 0
-60C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.f7626f62.css132906304159744288 0
-52C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.html132906304159599499 0
-61C:\Users\ANNA\Desktop\Finance_Ledger\dist\people.9b2574da.jpg132906304159863459 0
-62C:\Users\ANNA\Desktop\Finance_Ledger\dist\people.eead7dc3.webp132906304159853534 0
-66C:\Users\ANNA\Desktop\Finance_Ledger\dist\showcase@2x.909c3256.jpg132906304160300524 0
+62C:\Users\ANNA\Desktop\Finance_Ledger\dist\blog@2x.4bfc287f.jpg132907204824842777 0
+59C:\Users\ANNA\Desktop\Finance_Ledger\dist\icon.a422163e.svg132907204824532785 0
+59C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.975ef6c8.js132907204824532785 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.975ef6c8.js.map132907204824842777 0
+60C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.f7626f62.css132907204824532785 0
+52C:\Users\ANNA\Desktop\Finance_Ledger\dist\index.html132907204824542784 0
+61C:\Users\ANNA\Desktop\Finance_Ledger\dist\people.9b2574da.jpg132907204824792781 0
+62C:\Users\ANNA\Desktop\Finance_Ledger\dist\people.eead7dc3.webp132907204819550222 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\person1.460e95be.webp132907204817003710 0
+66C:\Users\ANNA\Desktop\Finance_Ledger\dist\person1@2x.9ae41080.webp132907204817194180 0
+65C:\Users\ANNA\Desktop\Finance_Ledger\dist\person1@2x.bced94a3.jpg132907204825012789 0
+65C:\Users\ANNA\Desktop\Finance_Ledger\dist\person2@2x.bd061ad6.jpg132907204824562793 0
+63C:\Users\ANNA\Desktop\Finance_Ledger\dist\person3.18867feb.webp132907204819550222 0
+62C:\Users\ANNA\Desktop\Finance_Ledger\dist\person3.cf77899c.jpg132907204824572785 0
+66C:\Users\ANNA\Desktop\Finance_Ledger\dist\person3@2x.05365409.webp132907204817123698 0
+65C:\Users\ANNA\Desktop\Finance_Ledger\dist\person3@2x.3f6b2133.jpg132907204824632794 0
+66C:\Users\ANNA\Desktop\Finance_Ledger\dist\showcase@2x.909c3256.jpg132907204825662784 0
