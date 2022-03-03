@@ -9,32 +9,24 @@
   }
 }
 .agency-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  justify-items: center;
+    grid-row-gap: 18px;
+   @media screen and (min-width: 768px) {  
+   grid-template-columns: repeat(3, 1fr);
+   grid-column-gap: 50px;
+   }
   li {
-    flex: 0 1 220px;
+    width: 220px;
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
-  li:not(:first-child) {
-    margin-top: 18px;
-  }
-  @media screen and (min-width: 768px) {
-    width: 100%;
-    justify-content: space-around;
-    li {
-      flex: 0 1 195px;
-    }
-    li:not(:first-child) {
-      margin-top: 0px;
-    }
-  }
-  @media screen and (min-width: 1360px) {
-    li {
-      flex: 0 1 360px;
-    }
+    @media screen and (min-width: 768px) {
+        width: 195px;
+      }
+      @media screen and (min-width: 1360px) {
+        width: 360px;
+      }
   }
 }
 .agency-logo {
