@@ -1,60 +1,57 @@
 .form-content {
-   @media screen and (min-width: 768px) {
+  @media screen and (min-width: 768px) {
     display: grid;
-   grid-template-columns: repeat(2, 1fr);
-   
-   
+    grid-template-columns: repeat(2, 1fr);
   }
-    
 }
 .send-form {
-    
-      @media screen and (min-width: 1360px) {
-        
-         padding: 80px 30px 80px 30px;
-      }
-    display: flex;
-    flex-direction: column;
-    padding: 26px 30px 30px 30px;
-    background-color: $background-color-form;
-    h2 {
-        font-style: normal;
-font-weight: 300;
-font-size: 38px;
-line-height: 48px;
-margin-bottom: 34px;
-    }
+  @media screen and (min-width: 1360px) {
+    padding: 80px 30px 80px 30px;
+  }
+  display: flex;
+  flex-direction: column;
+  padding: 26px 30px 30px 30px;
+  background-color: $background-color-form;
+  h2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 38px;
+    line-height: 48px;
+    margin-bottom: 34px;
+  }
 }
-.send-input{
-height: 40px;
-padding: 5px;
-    background: $main-color;
-border: 1px solid #F5F5F5;
-box-sizing: border-box;
-border-radius: 0px;
-color: $text-color-send-form;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 23px;
+.send-input {
+  height: 40px;
+  padding: 5px;
+  background: $main-color;
+  border: 1px solid #f5f5f5;
+  box-sizing: border-box;
+  border-radius: 0px;
+  color: $text-color-send-form;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
 }
 .send-name {
-    margin-bottom: 35px;
+  margin-bottom: 35px;
 }
 .send-email {
-    margin-bottom: 55px;
+  margin-bottom: 55px;
 }
 .submit-form {
-    padding: 10px;
-    background-color: $accent-color;
-     border: 1px solid $accent-color;
-    box-sizing: border-box;
-    border-radius: 5px;
-    span {
-        color: $main-color;
-        font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 22px;
-    }
+  padding: 10px;
+  background-color: $accent-color;
+  border: 1px solid $accent-color;
+  box-sizing: border-box;
+  border-radius: 5px;
+  span {
+    color: $main-color;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+  }
 }
+.pp { img {object-fit: cover;
+height: 100%;}}

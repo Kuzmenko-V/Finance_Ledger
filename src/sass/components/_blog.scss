@@ -1,13 +1,15 @@
 .blog-content-text {
-  padding: 30px;
   background-color: $accent-color-two;
+  div {
+    padding: 30px;
+    @media screen and (min-width: 1360px) {
+      padding: 112px 30px 112px 30px;
+    }
+  }
   @media screen and (min-width: 768px) {
-    width: 324px;
+    width: 50%;
   }
-  @media screen and (min-width: 1360px) {
-    width: 620px;
-    padding: 112px 30px 112px 30px;
-  }
+
   h3 {
     font-style: normal;
     font-weight: normal;
@@ -32,7 +34,6 @@
   p {
     margin-top: 25px;
     margin-bottom: 14px;
-    width: 260px;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -42,13 +43,12 @@
       font-size: 18px;
       line-height: 28px;
       margin-bottom: 20px;
-      width: 315px;
+      // width: 100%;
     }
     @media screen and (min-width: 1360px) {
       font-size: 18px;
       line-height: 28px;
       margin-bottom: 17px;
-      width: 600px;
     }
   }
   button {
@@ -99,14 +99,11 @@
   }
 }
 .blog-content-img {
-  @media screen and (min-width: 768px) {
-    width: 384px;
-    img {
-      height: 100%;
-      object-fit: cover;
-    }
+  img {
+    height: 100%;
+    object-fit: cover;
   }
-  @media screen and (min-width: 1360px) {
-    width: 680px;
+  @media screen and (min-width: 768px) {
+    width: 50%;
   }
 }
