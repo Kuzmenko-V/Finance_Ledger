@@ -68,10 +68,22 @@
   }
 }
 .blog-content-img {
-  img {
-    height: 100%;
-    object-fit: cover;
+ 
+
+    background-image: url('../images/home/blog.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+  background-size: cover;
+  @supports (gap: 1px) {
+   
+      background-image: url("../images/home/blog.webp");
+  
   }
+ 
+  // img {
+  //   height: 100%;
+  //   object-fit: cover;
+  // }
   @media screen and (min-width: 768px) {
     width: 50%;
   }
