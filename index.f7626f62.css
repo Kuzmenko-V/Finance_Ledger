@@ -41,6 +41,36 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.title-H2 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 38px;
+  line-height: 48px;
+}
+.title-H3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+}
+@media screen and (min-width: 768px) {
+  .title-H3 {
+    font-size: 20px;
+    line-height: 33px;
+  }
+}
+.text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+}
+@media screen and (min-width: 768px) {
+  .text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
 .header-site {
   width: 100%;
   height: 120px;
@@ -100,8 +130,6 @@ body {
   width: 280px;
   display: flex;
   justify-content: space-between;
-  font-size: 16px;
-  line-height: 26px;
   color: #ffffff;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -120,8 +148,6 @@ body {
     width: 330px;
     margin: 0px;
     align-items: center;
-    font-size: 18px;
-    line-height: 28px;
   }
 }
 @media screen and (min-width: 1360px) {
@@ -221,19 +247,11 @@ body {
 .hero button span {
   margin-left: 5px;
   color: #ffffff;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
 }
 @media screen and (min-width: 768px) {
   .hero button {
     width: 165px;
     height: 48px;
-  }
-  .hero button span {
-    font-size: 18px;
-    line-height: 28px;
   }
 }
 .hero button:hover, .hero button:focus {
@@ -331,17 +349,7 @@ body {
 }
 .agency-text {
   text-align: center;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   color: #333333;
-}
-@media screen and (min-width: 768px) {
-  .agency-text {
-    font-size: 18px;
-    line-height: 28px;
-  }
 }
 .solutions-content-text {
   background-color: #28a745;
@@ -360,46 +368,24 @@ body {
   }
 }
 .solutions-content-text h3 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 30px;
   color: #ffffff;
-}
-@media screen and (min-width: 768px) {
-  .solutions-content-text h3 {
-    font-size: 20px;
-    line-height: 33px;
-  }
 }
 .solutions-content-text h2 {
   margin-top: 5px;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 48px;
   color: #ffffff;
 }
 .solutions-content-text p {
   margin-top: 25px;
   margin-bottom: 14px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   color: #ffffff;
 }
 @media screen and (min-width: 768px) {
   .solutions-content-text p {
-    font-size: 18px;
-    line-height: 28px;
     margin-bottom: 20px;
   }
 }
 @media screen and (min-width: 1360px) {
   .solutions-content-text p {
-    font-size: 18px;
-    line-height: 28px;
     margin-bottom: 17px;
   }
 }
@@ -417,18 +403,12 @@ body {
 .solutions-content-text button span {
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   color: #ffffff;
 }
 @media screen and (min-width: 768px) {
   .solutions-content-text button {
     width: 167px;
     height: 50px;
-  }
-  .solutions-content-text button span {
-    font-size: 18px;
-    line-height: 28px;
   }
 }
 .solutions-content-text button:hover, .solutions-content-text button:focus {
@@ -461,24 +441,12 @@ body {
   color: #333333;
 }
 .activity-content h3 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 30px;
   margin-bottom: 15px;
 }
 .activity-content h2 {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 48px;
   margin-bottom: 35px;
 }
 .activity-content p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   margin-bottom: 37px;
 }
 .activity-gallery {
@@ -508,47 +476,25 @@ body {
   }
 }
 .blog-content-text h3 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 30px;
   color: #ffffff;
-}
-@media screen and (min-width: 768px) {
-  .blog-content-text h3 {
-    font-size: 20px;
-    line-height: 33px;
-  }
 }
 .blog-content-text h2 {
   margin-top: 5px;
   width: 254px;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 48px;
   color: #ffffff;
 }
 .blog-content-text p {
   margin-top: 25px;
   margin-bottom: 14px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   color: #ffffff;
 }
 @media screen and (min-width: 768px) {
   .blog-content-text p {
-    font-size: 18px;
-    line-height: 28px;
     margin-bottom: 20px;
   }
 }
 @media screen and (min-width: 1360px) {
   .blog-content-text p {
-    font-size: 18px;
-    line-height: 28px;
     margin-bottom: 17px;
   }
 }
@@ -564,20 +510,12 @@ body {
   border-radius: 5px;
 }
 .blog-content-text button span {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
   color: #ffffff;
 }
 @media screen and (min-width: 768px) {
   .blog-content-text button {
     width: 196px;
     height: 50px;
-  }
-  .blog-content-text button span {
-    font-size: 18px;
-    line-height: 28px;
   }
 }
 .blog-content-text button:hover, .blog-content-text button:focus {
@@ -595,9 +533,16 @@ body {
     flex-direction: row-reverse;
   }
 }
-.blog-content-img img {
-  height: 100%;
-  object-fit: cover;
+.blog-content-img {
+  background-image: url("blog.4a6c4f24.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+@supports (gap: 1px) {
+  .blog-content-img {
+    background-image: url("blog.816abe6c.webp");
+  }
 }
 @media screen and (min-width: 768px) {
   .blog-content-img {
@@ -622,11 +567,18 @@ body {
   }
 }
 .send-form h2 {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 48px;
   margin-bottom: 34px;
+}
+.send-form-img {
+  background-image: url("contact.94a5a7f6.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+@supports (gap: 1px) {
+  .send-form-img {
+    background-image: url("contact.570850c9.webp");
+  }
 }
 .send-input {
   height: 40px;
@@ -636,10 +588,6 @@ body {
   box-sizing: border-box;
   border-radius: 0px;
   color: #808080;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 23px;
 }
 .send-name {
   margin-bottom: 35px;
@@ -656,14 +604,6 @@ body {
 }
 .submit-form span {
   color: #ffffff;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 22px;
-}
-.pp img {
-  object-fit: cover;
-  height: 100%;
 }
 .team-content {
   padding: 50px 20px 50px 20px;
@@ -678,42 +618,21 @@ body {
   color: #333333;
 }
 .team-content-title h3 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 30px;
   margin-bottom: 15px;
 }
-@media screen and (min-width: 768px) {
-  .team-content-title h3 {
-    font-size: 20px;
-    line-height: 33px;
-  }
-}
 .team-content-title h2 {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 38px;
-  line-height: 48px;
   margin-bottom: 35px;
 }
 .team-content-title p {
   margin-bottom: 37px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
 }
 @media screen and (min-width: 768px) {
   .team-content-title p {
     margin-bottom: 50px;
-    font-size: 17px;
-    line-height: 28px;
   }
 }
 @media screen and (min-width: 1360px) {
   .team-content-title p {
-    font-size: 18px;
     margin-bottom: 45px;
   }
 }
@@ -823,17 +742,5 @@ body {
 }
 .footer ul {
   margin-bottom: 10px;
-}
-.footer p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
-}
-@media screen and (min-width: 768px) {
-  .footer p {
-    font-size: 18px;
-    line-height: 28px;
-  }
 }
 /*# sourceMappingURL=index.f7626f62.css.map */
